@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Andreatapiaa/Andreatapiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Biomédica en la Ibero Puebla, apasionada por el modelado y diseño CAD en SolidWorks y CATIA.
 
-Here are some ideas to get you started:
+Estoy comenzando a ofrecer servicios freelance para modelado, ensamblado y visualización de piezas y mecanismos mecánicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para ganar experiencia y crear mi portafolio, los **dos primeros proyectos los realizaré totalmente GRATIS**.
+
+Si necesitas ayuda con:
+
+- Modelado 3D de piezas y ensambles simples
+- Preparación de archivos para impresión 3D (STL, STEP)
+- Generación de vistas ortogonales y renders
+- Presentaciones visuales de tus proyectos CAD
+
+¡Contáctame! Estoy lista para colaborar contigo y ayudarte a llevar tu idea al siguiente nivel.
+
+📩 Contacto: [tu correo o red social]
