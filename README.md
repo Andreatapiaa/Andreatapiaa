@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hola! 
 
 Soy estudiante de Ingeniería Biomédica en la Ibero Puebla, apasionada por el modelado y diseño CAD en SolidWorks y CATIA.
 
