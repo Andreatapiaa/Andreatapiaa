@@ -15,4 +15,4 @@ Si necesitas ayuda con:
 
 ¡Contáctame! Estoy lista para colaborar contigo y ayudarte a llevar tu idea al siguiente nivel.
 
-📩 Contacto: [tu correo o red social]
+📩 Contacto: [andrea.tapiabal@gmail.com]
